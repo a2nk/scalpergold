@@ -10,6 +10,14 @@ git clone https://github.com/a2nk/scalpergold.git && cd scalpergold
 ```bash
 pip install requests pandas ta
 ```
+Pilih satu antara pakai
+```bash
+python3 notif1.py
+```
+atau
+```bash
+python3 notif2.py
+```
 # Apikey & Notifikasi Telegram
 https://www.goldapi.io/
 
