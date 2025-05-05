@@ -18,6 +18,10 @@ atau
 ```bash
 python3 notif2.py
 ```
+atau
+```bash
+python3 notif3.py
+```
 # Apikey & Notifikasi Telegram
 https://www.goldapi.io/
 
